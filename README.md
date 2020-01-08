@@ -43,7 +43,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 1**
-![Άσκηση 1](https://github.com/p18mant/FinalReport/blob/master/Capture1.jpg)
+(https://github.com/p18mant/FinalReport/blob/master/Capture1.jpg)
 
 
 
