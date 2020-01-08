@@ -43,7 +43,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 1**
-![Άσκηση 1](https://github.com/p18mant/FinalReport/blob/master/Capture1.jpg)
+[Άσκηση 1](https://github.com/p18mant/FinalReport/blob/master/Capture1.jpg)
 
 
 
@@ -61,7 +61,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 2](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 2**
-![Άσκηση 2](https://github.com/p18mant/FinalReport/blob/master/Capture2.jpg)
+[Άσκηση 2](https://github.com/p18mant/FinalReport/blob/master/Capture2.jpg)
 
 ## Εργασία Συμμετοχικού περιεχομένου
 ## Συμμετοχικό Υλικό Α
@@ -114,7 +114,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 3](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 3**
-![Άσκηση 3](https://github.com/p18mant/FinalReport/blob/master/Capture3.jpg)
+[Άσκηση 3](https://github.com/p18mant/FinalReport/blob/master/Capture3.jpg)
 
 ### ***Άσκηση 4***
 > #### **Assignments Άσκησης 4:**
@@ -133,7 +133,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 4](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 4**
-![Άσκηση 4](https://github.com/p18mant/FinalReport/blob/master/Capture4.jpg)
+[Άσκηση 4](https://github.com/p18mant/FinalReport/blob/master/Capture4.jpg)
 
 ### ***Άσκηση 5***
 > #### **Assignments Άσκησης 5:**
@@ -152,7 +152,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 5](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 5**
-![Άσκηση 5](https://github.com/p18mant/FinalReport/blob/master/Capture5.jpg)
+[Άσκηση 5](https://github.com/p18mant/FinalReport/blob/master/Capture5.jpg)
 
 ## Εργασία Συμμετοχικού περιεχομένου
 
