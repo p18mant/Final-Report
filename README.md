@@ -14,9 +14,9 @@
 Για την υλοποίηση των εργασιών εγκαταστάθηκε λειτουργικό σύστημα Linux (Ubuntu 18.04 LTS).  Σκοπός της εργασίας ήταν η εξοικείωση με τις βασικές εντολές του Linux καθώς και η χρήση applications όπως το Calcurse, Vim. Η καταγραφή των video που παρουσιάζουν την εκτέλεση των εργασιών έγινε με την χρήση του Asciinema. Η πραγματοποίηση και η υποβολή των παραδοτέων έγινε μέσω της πλατφόρμας του Github. 
 
 #  Σύντομη ανάλυση σχετικών έργων και εργαλείων
-******************************************************
+
 VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciinema, 5 νέες φωτογραφίες
-******************************************************
+
 
 # Μέθοδος και τεχνικές ανάπτυξης
 Στην εργασία συμμετοχικού προστέθηκαν πέντε νέες φωτογραφίες καθώς και η βιογραφία του Linus B. Torvalds. 
@@ -43,7 +43,7 @@ VM virtual box, linux ubuntu LTS 18.04, vim, prompt, neofetch, calcurse, asciine
 > #### **[Αποθετήριο κώδικα άσκησης 1](https://github.com/p18mant/hci/edit/2018217/projects/2018217/README.md)**
 
 > #### **Screenshot Άσκησης 1**
-(https://github.com/p18mant/FinalReport/blob/master/Capture1.jpg)
+![Άσκηση 1](https://github.com/p18mant/FinalReport/blob/master/Capture1.jpg)
 
 
 
